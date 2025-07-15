@@ -6,7 +6,7 @@ ________________________________________________________
 [Web Profil Toko YAN](https://github.com/GeraldiJari/YanResourceCode/tree/master) Click this link to go to the YanResourceCode master branch
 ________________________________________________________
 # Stockify
-[Management Stock [Stockify](https://github.com/GeraldiJari/stock-management-stockify) Click this link to go to the Stocify master branch
+[Management Stock Stockify](https://github.com/GeraldiJari/stock-management-stockify) Click this link to go to the Stocify master branch
 
 ## Develop By RhodesIsland
 
